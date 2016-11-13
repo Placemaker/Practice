@@ -2,6 +2,6 @@
 
 This is my tutorial repository.
 
-You see,I get it!
+You see,I did it!
 
-But there are a lot of things beyond my NOW.
+But there are many things to learn, for now！
